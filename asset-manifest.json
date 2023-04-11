@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sabiqun/static/css/main.798d7ab5.css",
+    "main.js": "/sabiqun/static/js/main.71c969a1.js",
+    "index.html": "/sabiqun/index.html",
+    "main.798d7ab5.css.map": "/sabiqun/static/css/main.798d7ab5.css.map",
+    "main.71c969a1.js.map": "/sabiqun/static/js/main.71c969a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.798d7ab5.css",
+    "static/js/main.71c969a1.js"
+  ]
+}
