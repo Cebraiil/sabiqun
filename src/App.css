@@ -1,38 +1,97 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+nav {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-size: 16px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+nav a:hover {
+  text-decoration: underline;
+}
+
+.posts {
+  max-width: 1300px;
+  margin: 0 auto; /* centers the posts horizontally */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 0 20px;
+}
+
+.post {
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+@media (min-width: 768px) {
+  .post {
+    width: calc(50% - 10px);
   }
-  to {
-    transform: rotate(360deg);
-  }
+}
+
+.post-title {
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.post-author {
+  font-size: 16px;
+  color: #888;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.post-summary {
+  font-size: 18px;
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.post-readmore {
+  display: block;
+  text-align: right;
+  font-size: 16px;
+  color: #333;
+  text-decoration: none;
+}
+
+.post-readmore:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #f2f2f2;
+  text-align: center;
+  padding: 20px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 14px;
+  color: #888;
 }
