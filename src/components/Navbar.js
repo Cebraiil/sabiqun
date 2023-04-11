@@ -6,7 +6,7 @@ const Navbar = () => {
         <nav>
             <a href="#">metin</a>
             <a href="#">eymen</a>
-            <a href="#">Explore</a>
+            <a href="#">eyhan</a>
         </nav>
   </header>
   )
