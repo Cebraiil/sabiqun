@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sabiqun/static/css/main.fafda40f.css",
-    "main.js": "/sabiqun/static/js/main.b2839858.js",
+    "main.css": "/sabiqun/static/css/main.5daf085e.css",
+    "main.js": "/sabiqun/static/js/main.d069e057.js",
     "static/media/ashara.png": "/sabiqun/static/media/ashara.9b44c6f3255c8e5414c7.png",
     "static/media/tawbah100.ttf": "/sabiqun/static/media/tawbah100.0a1f080f2fba5b4ed332.ttf",
     "index.html": "/sabiqun/index.html",
-    "main.fafda40f.css.map": "/sabiqun/static/css/main.fafda40f.css.map",
-    "main.b2839858.js.map": "/sabiqun/static/js/main.b2839858.js.map"
+    "main.5daf085e.css.map": "/sabiqun/static/css/main.5daf085e.css.map",
+    "main.d069e057.js.map": "/sabiqun/static/js/main.d069e057.js.map"
   },
   "entrypoints": [
-    "static/css/main.fafda40f.css",
-    "static/js/main.b2839858.js"
+    "static/css/main.5daf085e.css",
+    "static/js/main.d069e057.js"
   ]
 }
