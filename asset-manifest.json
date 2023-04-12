@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sabiqun/home/static/css/main.2ce75993.css",
-    "main.js": "/sabiqun/home/static/js/main.05334a5d.js",
+    "main.js": "/sabiqun/home/static/js/main.1a7acca5.js",
     "static/media/ashara.png": "/sabiqun/home/static/media/ashara.9b44c6f3255c8e5414c7.png",
     "static/media/tawbah100.ttf": "/sabiqun/home/static/media/tawbah100.0a1f080f2fba5b4ed332.ttf",
     "index.html": "/sabiqun/home/index.html",
     "main.2ce75993.css.map": "/sabiqun/home/static/css/main.2ce75993.css.map",
-    "main.05334a5d.js.map": "/sabiqun/home/static/js/main.05334a5d.js.map"
+    "main.1a7acca5.js.map": "/sabiqun/home/static/js/main.1a7acca5.js.map"
   },
   "entrypoints": [
     "static/css/main.2ce75993.css",
-    "static/js/main.05334a5d.js"
+    "static/js/main.1a7acca5.js"
   ]
 }
