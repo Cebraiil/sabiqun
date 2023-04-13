@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/sabiqun/static/css/main.ede4ba56.css",
-    "main.js": "/sabiqun/static/js/main.18149fab.js",
+    "main.css": "/sabiqun/static/css/main.e57301d5.css",
+    "main.js": "/sabiqun/static/js/main.55f471c4.js",
     "static/media/ashara.png": "/sabiqun/static/media/ashara.9b44c6f3255c8e5414c7.png",
     "static/media/tawbah100.ttf": "/sabiqun/static/media/tawbah100.0a1f080f2fba5b4ed332.ttf",
-    "static/media/Muhammad.svg": "/sabiqun/static/media/Muhammad.0a4bbed914ee313f6bfc224dff66172b.svg",
+    "static/media/bookmarked.svg": "/sabiqun/static/media/bookmarked.2b2159d6110270211c8edfb3ae84d88f.svg",
     "static/media/back.svg": "/sabiqun/static/media/back.4ce80c1b42411e3dd84bafdc0132cc3f.svg",
+    "static/media/bookmark.svg": "/sabiqun/static/media/bookmark.c0ac89cb9a3709198a2ee9a728f0057d.svg",
     "index.html": "/sabiqun/index.html",
-    "main.ede4ba56.css.map": "/sabiqun/static/css/main.ede4ba56.css.map",
-    "main.18149fab.js.map": "/sabiqun/static/js/main.18149fab.js.map"
+    "main.e57301d5.css.map": "/sabiqun/static/css/main.e57301d5.css.map",
+    "main.55f471c4.js.map": "/sabiqun/static/js/main.55f471c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ede4ba56.css",
-    "static/js/main.18149fab.js"
+    "static/css/main.e57301d5.css",
+    "static/js/main.55f471c4.js"
   ]
 }
